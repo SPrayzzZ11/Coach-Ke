@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+rank_bm25
+ebooklib
+beautifulsoup4
+streamlit
+openai
